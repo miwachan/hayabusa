@@ -1,0 +1,6 @@
+
+// 200812041830 
+
+// check probability
+
+PROBABILITY_SUM = 0.198000 
